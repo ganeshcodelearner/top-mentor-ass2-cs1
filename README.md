@@ -1,2 +1,10 @@
-# top-mentor-ass2-cs1
-Assignment 2 Case Study 1
+![case study 1_0000001](https://user-images.githubusercontent.com/68245946/89737973-c72e4480-da92-11ea-9bbd-e355262011b0.jpg)
+![case study 1_0000002](https://user-images.githubusercontent.com/68245946/89737992-e2994f80-da92-11ea-94bb-e091f0d78ebf.jpg)
+![case study 1_0000003](https://user-images.githubusercontent.com/68245946/89738002-f2189880-da92-11ea-833a-c5db98678312.jpg)
+![case study 1_0000004](https://user-images.githubusercontent.com/68245946/89738017-08beef80-da93-11ea-890d-17b1938f5c1f.jpg)
+![case study 1_0000005](https://user-images.githubusercontent.com/68245946/89738019-09f01c80-da93-11ea-9617-f6910962d520.jpg)
+![case study 1_0000006](https://user-images.githubusercontent.com/68245946/89738020-0a88b300-da93-11ea-8f1e-3ca477856b2a.jpg)
+![case study 1_0000007](https://user-images.githubusercontent.com/68245946/89738021-0a88b300-da93-11ea-8a16-123f9ecfafa8.jpg)
+![case study 1_0000008](https://user-images.githubusercontent.com/68245946/89738022-0b214980-da93-11ea-8192-90db2b002318.jpg)
+![case study 1_0000009](https://user-images.githubusercontent.com/68245946/89738024-0bb9e000-da93-11ea-8146-508ede056437.jpg)
+![case study 1_0000010](https://user-images.githubusercontent.com/68245946/89738025-0bb9e000-da93-11ea-99e1-3946e9016527.jpg)
