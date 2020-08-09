@@ -1,3 +1,4 @@
+# Assignment 2 - Case Study 1
 ![case study 1_0000001](https://user-images.githubusercontent.com/68245946/89737973-c72e4480-da92-11ea-9bbd-e355262011b0.jpg)
 ![case study 1_0000002](https://user-images.githubusercontent.com/68245946/89737992-e2994f80-da92-11ea-94bb-e091f0d78ebf.jpg)
 ![case study 1_0000003](https://user-images.githubusercontent.com/68245946/89738002-f2189880-da92-11ea-833a-c5db98678312.jpg)
